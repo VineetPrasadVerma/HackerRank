@@ -16,4 +16,4 @@ function powerSum(X, N) {
   return count
 }
 
-console.log(powerSum(100, 2))
+console.log(powerSum(101, 2))
