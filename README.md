@@ -1,3 +1,3 @@
 # Hackerrank
 
-This repository contains solution from Hackerrank Algorithm section.
+This repository contains solution from HackerRank Algorithm section.
