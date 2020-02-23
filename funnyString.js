@@ -1,4 +1,4 @@
-function funnyString(s) {
+function funnyString (s) {
   const len = s.length
   let arrayOfAscii = []
   const diffOrdinalArray = []
